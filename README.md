@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am KingdomParadise</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">Blockchain developer || Senior Full-stack devloper</h3>
 
 <h3 align="left">GitHub Stats</h3>
